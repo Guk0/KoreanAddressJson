@@ -1,6 +1,10 @@
 # 전국 시군구 데이터
 [여기](https://github.com/soohl/korea-jibun-dataset/blob/master/jibun_list.json)의 json데이터를 활용하여 [카카오 로컬](https://developers.kakao.com/docs/latest/ko/local/dev-guide)을 이용, 좌표를 추가한 전국 시군구 데이터 set입니다.
 
+<br/>
+
+### 주의
+읍면동 아래 **리는 제거하였습니다. 리 데이터가 필요하시다면 [여기](https://github.com/soohl/korea-jibun-dataset/blob/master/jibun_list.json)를 참고 바랍니다.
 
 <br/>
 
@@ -73,5 +77,9 @@
           }
         }
       },
-      ....
+      ...
+    }
+  }
+}
+      
 ```
