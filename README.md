@@ -1,5 +1,5 @@
 # 전국 시군구 데이터
-[여기](https://github.com/soohl/korea-jibun-dataset/blob/master/jibun_list.json)의 json데이터를 활용하여 [카카오 로컬](https://developers.kakao.com/docs/latest/ko/local/dev-guide)을 이용, 해당 지역의 중심 좌표를 추가한 전국 시군구 데이터 set입니다.
+[여기](https://github.com/soohl/korea-jibun-dataset/blob/master/jibun_list.json)의 json데이터를 활용하여 [카카오 로컬](https://developers.kakao.com/docs/latest/ko/local/dev-guide)을 이용, 해당 지역의 중심 좌표를 추가한 전국 시군구 데이터입니다.
 
 <br/>
 
